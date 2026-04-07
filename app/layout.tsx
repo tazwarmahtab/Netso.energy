@@ -1,11 +1,8 @@
 import './globals.css'
-import { Inter, Geist, Montserrat, Open_Sans, Fira_Code } from 'next/font/google'
+import { Inter, Geist } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const geist = Geist({ subsets: ['latin'], variable: '--font-geist' })
-const montserrat = Montserrat({ subsets: ['latin'], variable: '--font-montserrat' })
-const openSans = Open_Sans({ subsets: ['latin'], variable: '--font-opensans' })
-const firaCode = Fira_Code({ subsets: ['latin'], variable: '--font-fira' })
 
 export const metadata = {
   title: 'Netso.energy | Own Your Energy. Own Your Future.',
@@ -18,8 +15,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={`${inter.variable} ${geist.variable} ${montserrat.variable} ${openSans.variable} ${firaCode.variable}`}>
-      <body className="bg-[#0A1628] text-white font-opensans overflow-x-hidden">
+    <html lang="en" className={`${inter.variable} ${geist.variable} scroll-smooth`}>
+      <body className="bg-navy text-white font-inter antialiased overflow-x-hidden">
         {children}
       </body>
     </html>
