@@ -99,8 +99,8 @@ The entire website is a single-scroll 3D narrative following energy's flow throu
 - [x] Marketing copy (from docs/MARKETING-COPY.md)
 
 ### Phase 2: 3D Assets
-- [ ] Create/Source 3D models: Stylized home, solar panels, battery, appliances.
-- [ ] Load into React Three Fiber scenes.
+- [x] Create/Source 3D models: Stylized home, solar panels, battery, appliances (Placeholders implemented).
+- [x] Load into React Three Fiber scenes.
 
 ### Phase 3: Scroll Narrative
 - [ ] GSAP ScrollTrigger integration.

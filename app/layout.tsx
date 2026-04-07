@@ -10,15 +10,53 @@ export const metadata = {
 }
 
 export default function RootLayout({
+
   children,
+
 }: {
+
   children: React.ReactNode
+
 }) {
+
   return (
+
     <html lang="en" className={`${inter.variable} ${geist.variable} scroll-smooth`}>
+
+      <head>
+
+        {/* Analytics Placeholder */}
+
+        <script
+
+          dangerouslySetInnerHTML={{
+
+            __html: `
+
+              window.dataLayer = window.dataLayer || [];
+
+              function gtag(){dataLayer.push(arguments);}
+
+              gtag('js', new Date());
+
+              // gtag('config', 'G-XXXXXXXXXX');
+
+            `,
+
+          }}
+
+        />
+
+      </head>
+
       <body className="bg-navy text-white font-inter antialiased overflow-x-hidden">
+
         {children}
+
       </body>
+
     </html>
+
   )
+
 }

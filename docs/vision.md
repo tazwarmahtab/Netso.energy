@@ -1,29 +1,28 @@
-# Company Vision
+# Company Vision: Netso Energy
 
 ## Vision Statement
-
-To empower every household to achieve energy independence.
+To achieve energy independence for every household and business in Bangladesh through distributed rooftop solar infrastructure.
 
 ## Mission
-
-We build beautiful, intuitive software that helps homeowners manage and optimize their energy production, consumption, and storage.
+We finance, own, and operate a network of distributed solar assets on industrial and commercial rooftops, providing clean energy as a service while monetizing unused space through innovative architectural solutions like the Solar Pergola.
 
 ## Success Metrics
 
 | Metric | Target | Timeframe |
 |---|---|---|
-| Active Users | 10,000 | 12 months |
-| Customer Satisfaction | 90% | 12 months |
-| kWh of energy managed | 1,000,000 | 12 months |
+| Installed Capacity (MW) | 5 MW | 12 months |
+| Signed PPAs | 10 Contracts | 12 months |
+| Annual Revenue (ARR) | $500k | 18 months |
+| Operational Efficiency | 98% Uptime | Ongoing |
 
 ## Strategic Milestones
 
-1. **Milestone 1**: Launch a public-facing marketing site and gather a waitlist of 500 potential users. — Target: 1 month
-2. **Milestone 2**: Launch an MVP with basic energy monitoring for a single type of solar inverter. — Target: 3 months
-3. **Milestone 3**: Expand to support the top 3 solar inverters and add basic battery monitoring. — Target: 6 months
+1. **Milestone 1: Commercial Proof of Concept**: Close "Deal 1" with Farzana Group factory, complete SREDA RESCO registration, and secure IDCOL debt financing. — Target: 3 months
+2. **Milestone 2: Branded Product Launch**: Deploy the first commercial "Solar Pergola" installation and launch the Netso Intelligence monitoring platform. — Target: 6 months
+3. **Milestone 3: Scale & Network Effects**: Reach 1 MW of installed capacity and integrate advanced AI-driven predictive maintenance across the fleet. — Target: 12 months
 
 ## Non-Goals
-
-- We will not build our own hardware.
-- We will not focus on industrial or commercial energy management initially.
-- We will not provide energy trading or brokerage services in the first year.
+- We will not operate as a traditional EPC contractor (we own and operate).
+- We will not build our own solar panels (we use Tier 1 hardware).
+- We will not focus on residential solar in the initial 12 months (priority is industrial/commercial).
+- We will not provide energy trading services until the regulatory framework in Bangladesh matures.
