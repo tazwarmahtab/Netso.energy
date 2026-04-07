@@ -11,24 +11,20 @@ To be the most trusted and intuitive platform for household energy independence.
 - **Sustainability**: Promoting a cleaner, greener world through optimization.
 - **Simplicity**: Complex energy management made intuitive.
 
-## Color Palette (Proposed)
+## Color Palette
 
 | Role      | Name          | Hex     | Usage                            |
 |-----------|---------------|---------|----------------------------------|
-| Primary   | Solar Gold    | #FFB800 | Actions, highlights, energy icons|
-| Secondary | Leaf Green    | #2ECC71 | Savings, sustainability, growth  |
-| Accent    | Electric Blue | #3498DB | Data, connectivity, tech         |
-| Neutral   | Slate Gray    | #34495E | Text, borders, secondary info    |
-| Error     | Alert Red     | #E74C3C | Warnings, high consumption       |
-| Success   | Eco Green     | #27AE60 | Completion, goal achieved        |
+| Primary   | Navy          | #0A1628 | Backgrounds, primary text        |
+| Secondary | Teal          | #00D4FF | Highlights, energy flows, CTAs   |
+| Accent    | Amber         | #FF8C42 | Alerts, energy storage, data points|
 
-## Typography (Proposed)
+## Typography
 
-| Role     | Typeface      | Weight  | Usage                            |
-|----------|---------------|---------|----------------------------------|
-| Heading  | Montserrat    | Bold    | Page titles, hero headers        |
-| Body     | Open Sans     | Regular | Paragraphs, descriptions         |
-| Mono     | Fira Code     | Regular | Data values, technical details   |
+| Role     | Typeface      | Usage                            |
+|----------|---------------|----------------------------------|
+| Heading  | Geist         | Page titles, hero headers        |
+| Body     | Inter         | Paragraphs, descriptions         |
 
 ## Tone of Voice
 
@@ -38,4 +34,4 @@ To be the most trusted and intuitive platform for household energy independence.
 - **Supportive**: We are a partner in the user's energy journey.
 
 ---
-_Drafted by CMO. Subject to alignment with Designer._
+_Updated by Designer. Aligned with latest instructions._
